@@ -1,0 +1,12 @@
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.DataMapper\bin\Debug\net8.0\Pokedex.Domain.DataMapper.deps.json
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.DataMapper\bin\Debug\net8.0\Pokedex.Domain.DataMapper.dll
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.DataMapper\bin\Debug\net8.0\Pokedex.Domain.DataMapper.pdb
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.DataMapper\obj\Debug\net8.0\Pokedex.Domain.DataMapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.DataMapper\obj\Debug\net8.0\Pokedex.Domain.DataMapper.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.DataMapper\obj\Debug\net8.0\Pokedex.Domain.DataMapper.AssemblyInfo.cs
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.DataMapper\obj\Debug\net8.0\Pokedex.Domain.DataMapper.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.DataMapper\obj\Debug\net8.0\Pokedex.Domain.DataMapper.sourcelink.json
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.DataMapper\obj\Debug\net8.0\Pokedex.Domain.DataMapper.dll
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.DataMapper\obj\Debug\net8.0\refint\Pokedex.Domain.DataMapper.dll
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.DataMapper\obj\Debug\net8.0\Pokedex.Domain.DataMapper.pdb
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.DataMapper\obj\Debug\net8.0\ref\Pokedex.Domain.DataMapper.dll

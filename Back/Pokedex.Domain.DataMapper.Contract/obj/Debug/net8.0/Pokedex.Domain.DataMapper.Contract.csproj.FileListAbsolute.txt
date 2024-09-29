@@ -1,0 +1,12 @@
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.DataMapper.Contract\bin\Debug\net8.0\Pokedex.Domain.DataMapper.Contract.deps.json
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.DataMapper.Contract\bin\Debug\net8.0\Pokedex.Domain.DataMapper.Contract.dll
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.DataMapper.Contract\bin\Debug\net8.0\Pokedex.Domain.DataMapper.Contract.pdb
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.DataMapper.Contract\obj\Debug\net8.0\Pokedex.Domain.DataMapper.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.DataMapper.Contract\obj\Debug\net8.0\Pokedex.Domain.DataMapper.Contract.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.DataMapper.Contract\obj\Debug\net8.0\Pokedex.Domain.DataMapper.Contract.AssemblyInfo.cs
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.DataMapper.Contract\obj\Debug\net8.0\Pokedex.Domain.DataMapper.Contract.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.DataMapper.Contract\obj\Debug\net8.0\Pokedex.Domain.DataMapper.Contract.sourcelink.json
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.DataMapper.Contract\obj\Debug\net8.0\Pokedex.Domain.DataMapper.Contract.dll
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.DataMapper.Contract\obj\Debug\net8.0\refint\Pokedex.Domain.DataMapper.Contract.dll
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.DataMapper.Contract\obj\Debug\net8.0\Pokedex.Domain.DataMapper.Contract.pdb
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.DataMapper.Contract\obj\Debug\net8.0\ref\Pokedex.Domain.DataMapper.Contract.dll

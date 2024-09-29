@@ -1,0 +1,12 @@
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Infrastructure.DI\bin\Debug\net8.0\Pokedex.Infrastructure.DI.deps.json
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Infrastructure.DI\bin\Debug\net8.0\Pokedex.Infrastructure.DI.dll
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Infrastructure.DI\bin\Debug\net8.0\Pokedex.Infrastructure.DI.pdb
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Infrastructure.DI\obj\Debug\net8.0\Pokedex.Infrastructure.DI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Infrastructure.DI\obj\Debug\net8.0\Pokedex.Infrastructure.DI.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Infrastructure.DI\obj\Debug\net8.0\Pokedex.Infrastructure.DI.AssemblyInfo.cs
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Infrastructure.DI\obj\Debug\net8.0\Pokedex.Infrastructure.DI.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Infrastructure.DI\obj\Debug\net8.0\Pokedex.Infrastructure.DI.sourcelink.json
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Infrastructure.DI\obj\Debug\net8.0\Pokedex.Infrastructure.DI.dll
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Infrastructure.DI\obj\Debug\net8.0\refint\Pokedex.Infrastructure.DI.dll
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Infrastructure.DI\obj\Debug\net8.0\Pokedex.Infrastructure.DI.pdb
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Infrastructure.DI\obj\Debug\net8.0\ref\Pokedex.Infrastructure.DI.dll

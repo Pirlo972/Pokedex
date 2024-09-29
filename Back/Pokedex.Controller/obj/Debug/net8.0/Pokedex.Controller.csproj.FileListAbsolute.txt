@@ -1,0 +1,12 @@
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Controller\bin\Debug\net8.0\Pokedex.Controller.deps.json
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Controller\bin\Debug\net8.0\Pokedex.Controller.dll
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Controller\bin\Debug\net8.0\Pokedex.Controller.pdb
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Controller\obj\Debug\net8.0\Pokedex.Controller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Controller\obj\Debug\net8.0\Pokedex.Controller.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Controller\obj\Debug\net8.0\Pokedex.Controller.AssemblyInfo.cs
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Controller\obj\Debug\net8.0\Pokedex.Controller.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Controller\obj\Debug\net8.0\Pokedex.Controller.sourcelink.json
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Controller\obj\Debug\net8.0\Pokedex.Controller.dll
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Controller\obj\Debug\net8.0\refint\Pokedex.Controller.dll
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Controller\obj\Debug\net8.0\Pokedex.Controller.pdb
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Controller\obj\Debug\net8.0\ref\Pokedex.Controller.dll

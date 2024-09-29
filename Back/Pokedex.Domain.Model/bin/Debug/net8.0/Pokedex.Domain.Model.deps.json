@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Pokedex.Domain.Model/1.0.0": {
+        "dependencies": {
+          "Pokedex.Domain.Enum": "1.0.0"
+        },
+        "runtime": {
+          "Pokedex.Domain.Model.dll": {}
+        }
+      },
+      "Pokedex.Domain.Enum/1.0.0": {
+        "runtime": {
+          "Pokedex.Domain.Enum.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pokedex.Domain.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Pokedex.Domain.Enum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

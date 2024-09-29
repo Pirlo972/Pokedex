@@ -1,0 +1,12 @@
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.Service\bin\Debug\net8.0\Pokedex.Domain.Service.deps.json
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.Service\bin\Debug\net8.0\Pokedex.Domain.Service.dll
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.Service\bin\Debug\net8.0\Pokedex.Domain.Service.pdb
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.Service\obj\Debug\net8.0\Pokedex.Domain.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.Service\obj\Debug\net8.0\Pokedex.Domain.Service.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.Service\obj\Debug\net8.0\Pokedex.Domain.Service.AssemblyInfo.cs
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.Service\obj\Debug\net8.0\Pokedex.Domain.Service.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.Service\obj\Debug\net8.0\Pokedex.Domain.Service.sourcelink.json
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.Service\obj\Debug\net8.0\Pokedex.Domain.Service.dll
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.Service\obj\Debug\net8.0\refint\Pokedex.Domain.Service.dll
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.Service\obj\Debug\net8.0\Pokedex.Domain.Service.pdb
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.Service\obj\Debug\net8.0\ref\Pokedex.Domain.Service.dll

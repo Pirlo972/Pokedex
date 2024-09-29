@@ -1,0 +1,16 @@
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.Model\bin\Debug\net8.0\Pokedex.Domain.Model.deps.json
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.Model\bin\Debug\net8.0\Pokedex.Domain.Model.dll
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.Model\bin\Debug\net8.0\Pokedex.Domain.Model.pdb
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.Model\bin\Debug\net8.0\Pokedex.Domain.Enum.dll
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.Model\bin\Debug\net8.0\Pokedex.Domain.Enum.pdb
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.Model\obj\Debug\net8.0\Pokedex.Domain.Model.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.Model\obj\Debug\net8.0\Pokedex.Domain.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.Model\obj\Debug\net8.0\Pokedex.Domain.Model.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.Model\obj\Debug\net8.0\Pokedex.Domain.Model.AssemblyInfo.cs
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.Model\obj\Debug\net8.0\Pokedex.Domain.Model.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.Model\obj\Debug\net8.0\Pokedex.Domain.Model.sourcelink.json
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.Model\obj\Debug\net8.0\Pokedex..187BC7B0.Up2Date
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.Model\obj\Debug\net8.0\Pokedex.Domain.Model.dll
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.Model\obj\Debug\net8.0\refint\Pokedex.Domain.Model.dll
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.Model\obj\Debug\net8.0\Pokedex.Domain.Model.pdb
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.Model\obj\Debug\net8.0\ref\Pokedex.Domain.Model.dll

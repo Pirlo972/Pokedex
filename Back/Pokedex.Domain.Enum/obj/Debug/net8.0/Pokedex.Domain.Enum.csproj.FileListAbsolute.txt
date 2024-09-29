@@ -1,0 +1,12 @@
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.Enum\bin\Debug\net8.0\Pokedex.Domain.Enum.deps.json
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.Enum\bin\Debug\net8.0\Pokedex.Domain.Enum.dll
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.Enum\bin\Debug\net8.0\Pokedex.Domain.Enum.pdb
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.Enum\obj\Debug\net8.0\Pokedex.Domain.Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.Enum\obj\Debug\net8.0\Pokedex.Domain.Enum.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.Enum\obj\Debug\net8.0\Pokedex.Domain.Enum.AssemblyInfo.cs
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.Enum\obj\Debug\net8.0\Pokedex.Domain.Enum.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.Enum\obj\Debug\net8.0\Pokedex.Domain.Enum.sourcelink.json
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.Enum\obj\Debug\net8.0\Pokedex.Domain.Enum.dll
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.Enum\obj\Debug\net8.0\refint\Pokedex.Domain.Enum.dll
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.Enum\obj\Debug\net8.0\Pokedex.Domain.Enum.pdb
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Domain.Enum\obj\Debug\net8.0\ref\Pokedex.Domain.Enum.dll

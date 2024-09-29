@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Pokedex.Domain.ViewModel/1.0.0": {
+        "runtime": {
+          "Pokedex.Domain.ViewModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pokedex.Domain.ViewModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
