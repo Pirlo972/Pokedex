@@ -10,3 +10,11 @@ C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Infrastructure.Repository\obj\
 C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Infrastructure.Repository\obj\Debug\net8.0\refint\Pokedex.Infrastructure.Repository.dll
 C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Infrastructure.Repository\obj\Debug\net8.0\Pokedex.Infrastructure.Repository.pdb
 C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Infrastructure.Repository\obj\Debug\net8.0\ref\Pokedex.Infrastructure.Repository.dll
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Infrastructure.Repository\bin\Debug\net8.0\Pokedex.Infrastructure.Repository.runtimeconfig.json
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Infrastructure.Repository\bin\Debug\net8.0\Pokedex.Domain.Enum.dll
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Infrastructure.Repository\bin\Debug\net8.0\Pokedex.Domain.Model.dll
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Infrastructure.Repository\bin\Debug\net8.0\Pokedex.Domain.Model.pdb
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Infrastructure.Repository\bin\Debug\net8.0\Pokedex.Domain.Enum.pdb
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Infrastructure.Repository\obj\Debug\net8.0\Pokedex.Infrastructure.Repository.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Infrastructure.Repository\obj\Debug\net8.0\Pokedex..59C03003.Up2Date
+C:\Users\dell\Desktop\projet\Pokedex\Back\Pokedex.Infrastructure.Repository\obj\Debug\net8.0\Pokedex.Infrastructure.Repository.genruntimeconfig.cache

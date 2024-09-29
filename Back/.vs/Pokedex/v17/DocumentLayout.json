@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\dell\\Desktop\\projet\\Pokedex\\Back\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B27D6107-4567-4D96-8808-472FB852FE46}|Pokedex.Domain.Model\\Pokedex.Domain.Model.csproj|c:\\users\\dell\\desktop\\projet\\pokedex\\back\\pokedex.domain.model\\pokedex.domain.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B27D6107-4567-4D96-8808-472FB852FE46}|Pokedex.Domain.Model\\Pokedex.Domain.Model.csproj|solutionrelative:pokedex.domain.model\\pokedex.domain.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{465383B5-DF82-47B1-977A-D05699CBE98B}|Pokedex\\Pokedex.csproj|c:\\users\\dell\\desktop\\projet\\pokedex\\back\\pokedex\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{465383B5-DF82-47B1-977A-D05699CBE98B}|Pokedex\\Pokedex.csproj|solutionrelative:pokedex\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B27D6107-4567-4D96-8808-472FB852FE46}|Pokedex.Domain.Model\\Pokedex.Domain.Model.csproj|c:\\users\\dell\\desktop\\projet\\pokedex\\back\\pokedex.domain.model\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B27D6107-4567-4D96-8808-472FB852FE46}|Pokedex.Domain.Model\\Pokedex.Domain.Model.csproj|solutionrelative:pokedex.domain.model\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{465383B5-DF82-47B1-977A-D05699CBE98B}|Pokedex\\Pokedex.csproj|c:\\users\\dell\\desktop\\projet\\pokedex\\back\\pokedex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{465383B5-DF82-47B1-977A-D05699CBE98B}|Pokedex\\Pokedex.csproj|solutionrelative:pokedex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B65B944C-1A4D-4275-99A8-11BF74D71D2E}|Pokedex.Domain.Enum\\Pokedex.Domain.Enum.csproj|c:\\users\\dell\\desktop\\projet\\pokedex\\back\\pokedex.domain.enum\\enumgender\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B65B944C-1A4D-4275-99A8-11BF74D71D2E}|Pokedex.Domain.Enum\\Pokedex.Domain.Enum.csproj|solutionrelative:pokedex.domain.enum\\enumgender\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F23F9D2-3F55-4AEE-BBA2-FB118B371B30}|Pokedex.Infrastructure.Repository\\Pokedex.Infrastructure.Repository.csproj|c:\\users\\dell\\desktop\\projet\\pokedex\\back\\pokedex.infrastructure.repository\\pokedex.infrastructure.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8F23F9D2-3F55-4AEE-BBA2-FB118B371B30}|Pokedex.Infrastructure.Repository\\Pokedex.Infrastructure.Repository.csproj|solutionrelative:pokedex.infrastructure.repository\\pokedex.infrastructure.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F23F9D2-3F55-4AEE-BBA2-FB118B371B30}|Pokedex.Infrastructure.Repository\\Pokedex.Infrastructure.Repository.csproj|c:\\users\\dell\\desktop\\projet\\pokedex\\back\\pokedex.infrastructure.repository\\data\\migrations\\20240929160439_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F23F9D2-3F55-4AEE-BBA2-FB118B371B30}|Pokedex.Infrastructure.Repository\\Pokedex.Infrastructure.Repository.csproj|solutionrelative:pokedex.infrastructure.repository\\data\\migrations\\20240929160439_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F23F9D2-3F55-4AEE-BBA2-FB118B371B30}|Pokedex.Infrastructure.Repository\\Pokedex.Infrastructure.Repository.csproj|c:\\users\\dell\\desktop\\projet\\pokedex\\back\\pokedex.infrastructure.repository\\pokedexdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F23F9D2-3F55-4AEE-BBA2-FB118B371B30}|Pokedex.Infrastructure.Repository\\Pokedex.Infrastructure.Repository.csproj|solutionrelative:pokedex.infrastructure.repository\\pokedexdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,41 +34,67 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Gender.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\projet\\Pokedex\\Back\\Pokedex.Domain.Enum\\EnumGender\\Gender.cs",
-              "RelativeDocumentMoniker": "Pokedex.Domain.Enum\\EnumGender\\Gender.cs",
-              "ToolTip": "C:\\Users\\dell\\Desktop\\projet\\Pokedex\\Back\\Pokedex.Domain.Enum\\EnumGender\\Gender.cs",
-              "RelativeToolTip": "Pokedex.Domain.Enum\\EnumGender\\Gender.cs",
+              "DocumentIndex": 3,
+              "Title": "20240929160439_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\projet\\Pokedex\\Back\\Pokedex.Infrastructure.Repository\\Data\\Migrations\\20240929160439_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Pokedex.Infrastructure.Repository\\Data\\Migrations\\20240929160439_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\projet\\Pokedex\\Back\\Pokedex.Infrastructure.Repository\\Data\\Migrations\\20240929160439_InitialCreate.cs",
+              "RelativeToolTip": "Pokedex.Infrastructure.Repository\\Data\\Migrations\\20240929160439_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T13:08:38.175Z",
+              "WhenOpened": "2024-09-29T16:09:34.399Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Pokedex.Domain.Model",
-              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\projet\\Pokedex\\Back\\Pokedex.Domain.Model\\Pokedex.Domain.Model.csproj",
-              "RelativeDocumentMoniker": "Pokedex.Domain.Model\\Pokedex.Domain.Model.csproj",
-              "ToolTip": "C:\\Users\\dell\\Desktop\\projet\\Pokedex\\Back\\Pokedex.Domain.Model\\Pokedex.Domain.Model.csproj",
-              "RelativeToolTip": "Pokedex.Domain.Model\\Pokedex.Domain.Model.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\projet\\Pokedex\\Back\\Pokedex\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Pokedex\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\projet\\Pokedex\\Back\\Pokedex\\appsettings.Development.json",
+              "RelativeToolTip": "Pokedex\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-29T16:01:36.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pokedex.Infrastructure.Repository",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\projet\\Pokedex\\Back\\Pokedex.Infrastructure.Repository\\Pokedex.Infrastructure.Repository.csproj",
+              "RelativeDocumentMoniker": "Pokedex.Infrastructure.Repository\\Pokedex.Infrastructure.Repository.csproj",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\projet\\Pokedex\\Back\\Pokedex.Infrastructure.Repository\\Pokedex.Infrastructure.Repository.csproj",
+              "RelativeToolTip": "Pokedex.Infrastructure.Repository\\Pokedex.Infrastructure.Repository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-29T13:04:03.568Z",
+              "WhenOpened": "2024-09-29T15:53:13.05Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\projet\\Pokedex\\Back\\Pokedex.Domain.Model\\User\\User.cs",
-              "RelativeDocumentMoniker": "Pokedex.Domain.Model\\User\\User.cs",
-              "ToolTip": "C:\\Users\\dell\\Desktop\\projet\\Pokedex\\Back\\Pokedex.Domain.Model\\User\\User.cs",
-              "RelativeToolTip": "Pokedex.Domain.Model\\User\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\projet\\Pokedex\\Back\\Pokedex\\Program.cs",
+              "RelativeDocumentMoniker": "Pokedex\\Program.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\projet\\Pokedex\\Back\\Pokedex\\Program.cs",
+              "RelativeToolTip": "Pokedex\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T13:04:22.194Z",
+              "WhenOpened": "2024-09-29T14:44:12.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PokedexDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\projet\\Pokedex\\Back\\Pokedex.Infrastructure.Repository\\PokedexDbContext.cs",
+              "RelativeDocumentMoniker": "Pokedex.Infrastructure.Repository\\PokedexDbContext.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\projet\\Pokedex\\Back\\Pokedex.Infrastructure.Repository\\PokedexDbContext.cs",
+              "RelativeToolTip": "Pokedex.Infrastructure.Repository\\PokedexDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T14:32:02.754Z",
               "EditorCaption": ""
             }
           ]
