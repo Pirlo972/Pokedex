@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pokedex.Domain.ViewModel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70428f23d83516074e9832afa258c3162f4d32ec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+381ce862bcf57ebd00a3257f15b11fa92733f369")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pokedex.Domain.ViewModel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pokedex.Domain.ViewModel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
