@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\dell\\Desktop\\projet\\Pokedex\\Back\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{465383B5-DF82-47B1-977A-D05699CBE98B}|Pokedex\\Pokedex.csproj|c:\\users\\dell\\desktop\\projet\\pokedex\\back\\pokedex\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{465383B5-DF82-47B1-977A-D05699CBE98B}|Pokedex\\Pokedex.csproj|solutionrelative:pokedex\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{B65B944C-1A4D-4275-99A8-11BF74D71D2E}|Pokedex.Domain.Enum\\Pokedex.Domain.Enum.csproj|c:\\users\\dell\\desktop\\projet\\pokedex\\back\\pokedex.domain.enum\\enumtalentpokemon\\talentpokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65B944C-1A4D-4275-99A8-11BF74D71D2E}|Pokedex.Domain.Enum\\Pokedex.Domain.Enum.csproj|solutionrelative:pokedex.domain.enum\\enumtalentpokemon\\talentpokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F23F9D2-3F55-4AEE-BBA2-FB118B371B30}|Pokedex.Infrastructure.Repository\\Pokedex.Infrastructure.Repository.csproj|c:\\users\\dell\\desktop\\projet\\pokedex\\back\\pokedex.infrastructure.repository\\pokedexdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F23F9D2-3F55-4AEE-BBA2-FB118B371B30}|Pokedex.Infrastructure.Repository\\Pokedex.Infrastructure.Repository.csproj|solutionrelative:pokedex.infrastructure.repository\\pokedexdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B65B944C-1A4D-4275-99A8-11BF74D71D2E}|Pokedex.Domain.Enum\\Pokedex.Domain.Enum.csproj|c:\\users\\dell\\desktop\\projet\\pokedex\\back\\pokedex.domain.enum\\enumweaknessespokemon\\weaknessespokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65B944C-1A4D-4275-99A8-11BF74D71D2E}|Pokedex.Domain.Enum\\Pokedex.Domain.Enum.csproj|solutionrelative:pokedex.domain.enum\\enumweaknessespokemon\\weaknessespokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F23F9D2-3F55-4AEE-BBA2-FB118B371B30}|Pokedex.Infrastructure.Repository\\Pokedex.Infrastructure.Repository.csproj|c:\\users\\dell\\desktop\\projet\\pokedex\\back\\pokedex.infrastructure.repository\\pokedex.infrastructure.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8F23F9D2-3F55-4AEE-BBA2-FB118B371B30}|Pokedex.Infrastructure.Repository\\Pokedex.Infrastructure.Repository.csproj|solutionrelative:pokedex.infrastructure.repository\\pokedex.infrastructure.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{B65B944C-1A4D-4275-99A8-11BF74D71D2E}|Pokedex.Domain.Enum\\Pokedex.Domain.Enum.csproj|c:\\users\\dell\\desktop\\projet\\pokedex\\back\\pokedex.domain.enum\\enumtypepokemon\\typepokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65B944C-1A4D-4275-99A8-11BF74D71D2E}|Pokedex.Domain.Enum\\Pokedex.Domain.Enum.csproj|solutionrelative:pokedex.domain.enum\\enumtypepokemon\\typepokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{465383B5-DF82-47B1-977A-D05699CBE98B}|Pokedex\\Pokedex.csproj|c:\\users\\dell\\desktop\\projet\\pokedex\\back\\pokedex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{465383B5-DF82-47B1-977A-D05699CBE98B}|Pokedex\\Pokedex.csproj|solutionrelative:pokedex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B27D6107-4567-4D96-8808-472FB852FE46}|Pokedex.Domain.Model\\Pokedex.Domain.Model.csproj|c:\\users\\dell\\desktop\\projet\\pokedex\\back\\pokedex.domain.model\\pokemon\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27D6107-4567-4D96-8808-472FB852FE46}|Pokedex.Domain.Model\\Pokedex.Domain.Model.csproj|solutionrelative:pokedex.domain.model\\pokemon\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F23F9D2-3F55-4AEE-BBA2-FB118B371B30}|Pokedex.Infrastructure.Repository\\Pokedex.Infrastructure.Repository.csproj|c:\\users\\dell\\desktop\\projet\\pokedex\\back\\pokedex.infrastructure.repository\\data\\migrations\\20240929160439_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F23F9D2-3F55-4AEE-BBA2-FB118B371B30}|Pokedex.Infrastructure.Repository\\Pokedex.Infrastructure.Repository.csproj|solutionrelative:pokedex.infrastructure.repository\\data\\migrations\\20240929160439_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B65B944C-1A4D-4275-99A8-11BF74D71D2E}|Pokedex.Domain.Enum\\Pokedex.Domain.Enum.csproj|c:\\users\\dell\\desktop\\projet\\pokedex\\back\\pokedex.domain.enum\\enumcategorypokemon\\categorypokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65B944C-1A4D-4275-99A8-11BF74D71D2E}|Pokedex.Domain.Enum\\Pokedex.Domain.Enum.csproj|solutionrelative:pokedex.domain.enum\\enumcategorypokemon\\categorypokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65B944C-1A4D-4275-99A8-11BF74D71D2E}|Pokedex.Domain.Enum\\Pokedex.Domain.Enum.csproj|c:\\users\\dell\\desktop\\projet\\pokedex\\back\\pokedex.domain.enum\\enumgender\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65B944C-1A4D-4275-99A8-11BF74D71D2E}|Pokedex.Domain.Enum\\Pokedex.Domain.Enum.csproj|solutionrelative:pokedex.domain.enum\\enumgender\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24DFEE02-E979-4DD3-9B88-611D2C6B35AC}|Pokedex.Controller\\Pokedex.Controller.csproj|c:\\users\\dell\\desktop\\projet\\pokedex\\back\\pokedex.controller\\user\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24DFEE02-E979-4DD3-9B88-611D2C6B35AC}|Pokedex.Controller\\Pokedex.Controller.csproj|solutionrelative:pokedex.controller\\user\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,66 +42,93 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20240929160439_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\projet\\Pokedex\\Back\\Pokedex.Infrastructure.Repository\\Data\\Migrations\\20240929160439_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Pokedex.Infrastructure.Repository\\Data\\Migrations\\20240929160439_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\dell\\Desktop\\projet\\Pokedex\\Back\\Pokedex.Infrastructure.Repository\\Data\\Migrations\\20240929160439_InitialCreate.cs",
-              "RelativeToolTip": "Pokedex.Infrastructure.Repository\\Data\\Migrations\\20240929160439_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\projet\\Pokedex\\Back\\Pokedex.Domain.Enum\\EnumGender\\Gender.cs",
+              "RelativeDocumentMoniker": "Pokedex.Domain.Enum\\EnumGender\\Gender.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\projet\\Pokedex\\Back\\Pokedex.Domain.Enum\\EnumGender\\Gender.cs",
+              "RelativeToolTip": "Pokedex.Domain.Enum\\EnumGender\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T16:09:34.399Z"
+              "WhenOpened": "2024-10-13T15:10:08.306Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\projet\\Pokedex\\Back\\Pokedex\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "Pokedex\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\dell\\Desktop\\projet\\Pokedex\\Back\\Pokedex\\appsettings.Development.json",
-              "RelativeToolTip": "Pokedex\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-29T16:01:36.372Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Pokedex.Infrastructure.Repository.csproj",
-              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\projet\\Pokedex\\Back\\Pokedex.Infrastructure.Repository\\Pokedex.Infrastructure.Repository.csproj",
-              "RelativeDocumentMoniker": "Pokedex.Infrastructure.Repository\\Pokedex.Infrastructure.Repository.csproj",
-              "ToolTip": "C:\\Users\\dell\\Desktop\\projet\\Pokedex\\Back\\Pokedex.Infrastructure.Repository\\Pokedex.Infrastructure.Repository.csproj",
-              "RelativeToolTip": "Pokedex.Infrastructure.Repository\\Pokedex.Infrastructure.Repository.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-29T15:53:13.05Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\projet\\Pokedex\\Back\\Pokedex\\Program.cs",
-              "RelativeDocumentMoniker": "Pokedex\\Program.cs",
-              "ToolTip": "C:\\Users\\dell\\Desktop\\projet\\Pokedex\\Back\\Pokedex\\Program.cs",
-              "RelativeToolTip": "Pokedex\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABRAAAAAAAAAA==",
+              "Title": "TalentPokemon.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\projet\\Pokedex\\Back\\Pokedex.Domain.Enum\\EnumTalentPokemon\\TalentPokemon.cs",
+              "RelativeDocumentMoniker": "Pokedex.Domain.Enum\\EnumTalentPokemon\\TalentPokemon.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\projet\\Pokedex\\Back\\Pokedex.Domain.Enum\\EnumTalentPokemon\\TalentPokemon.cs",
+              "RelativeToolTip": "Pokedex.Domain.Enum\\EnumTalentPokemon\\TalentPokemon.cs",
+              "ViewState": "AgIAAPgAAAAAAAAAAAAQwBMBAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T14:44:12.934Z",
+              "WhenOpened": "2024-10-13T15:05:29.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryPokemon.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\projet\\Pokedex\\Back\\Pokedex.Domain.Enum\\EnumCategoryPokemon\\CategoryPokemon.cs",
+              "RelativeDocumentMoniker": "Pokedex.Domain.Enum\\EnumCategoryPokemon\\CategoryPokemon.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\projet\\Pokedex\\Back\\Pokedex.Domain.Enum\\EnumCategoryPokemon\\CategoryPokemon.cs",
+              "RelativeToolTip": "Pokedex.Domain.Enum\\EnumCategoryPokemon\\CategoryPokemon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:03:53.007Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PokedexDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\projet\\Pokedex\\Back\\Pokedex.Infrastructure.Repository\\PokedexDbContext.cs",
-              "RelativeDocumentMoniker": "Pokedex.Infrastructure.Repository\\PokedexDbContext.cs",
-              "ToolTip": "C:\\Users\\dell\\Desktop\\projet\\Pokedex\\Back\\Pokedex.Infrastructure.Repository\\PokedexDbContext.cs",
-              "RelativeToolTip": "Pokedex.Infrastructure.Repository\\PokedexDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Title": "WeaknessesPokemon.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\projet\\Pokedex\\Back\\Pokedex.Domain.Enum\\EnumWeaknessesPokemon\\WeaknessesPokemon.cs",
+              "RelativeDocumentMoniker": "Pokedex.Domain.Enum\\EnumWeaknessesPokemon\\WeaknessesPokemon.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\projet\\Pokedex\\Back\\Pokedex.Domain.Enum\\EnumWeaknessesPokemon\\WeaknessesPokemon.cs",
+              "RelativeToolTip": "Pokedex.Domain.Enum\\EnumWeaknessesPokemon\\WeaknessesPokemon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T14:32:02.754Z",
+              "WhenOpened": "2024-10-13T15:01:25.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TypePokemon.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\projet\\Pokedex\\Back\\Pokedex.Domain.Enum\\EnumTypePokemon\\TypePokemon.cs",
+              "RelativeDocumentMoniker": "Pokedex.Domain.Enum\\EnumTypePokemon\\TypePokemon.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\projet\\Pokedex\\Back\\Pokedex.Domain.Enum\\EnumTypePokemon\\TypePokemon.cs",
+              "RelativeToolTip": "Pokedex.Domain.Enum\\EnumTypePokemon\\TypePokemon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T14:59:55.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pokemon.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\projet\\Pokedex\\Back\\Pokedex.Domain.Model\\Pokemon\\Pokemon.cs",
+              "RelativeDocumentMoniker": "Pokedex.Domain.Model\\Pokemon\\Pokemon.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\projet\\Pokedex\\Back\\Pokedex.Domain.Model\\Pokemon\\Pokemon.cs",
+              "RelativeToolTip": "Pokedex.Domain.Model\\Pokemon\\Pokemon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T14:57:35.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\projet\\Pokedex\\Back\\Pokedex.Controller\\User\\UsersController.cs",
+              "RelativeDocumentMoniker": "Pokedex.Controller\\User\\UsersController.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\projet\\Pokedex\\Back\\Pokedex.Controller\\User\\UsersController.cs",
+              "RelativeToolTip": "Pokedex.Controller\\User\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T14:43:28.844Z",
               "EditorCaption": ""
             }
           ]
